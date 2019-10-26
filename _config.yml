@@ -1,20 +1,18 @@
 # Site settings
-name: Edwin E. Exemplar
-email: edwin+contactme@someemail.com
+name: Adwait P. Joshi
+email: joshi.adw@husky.neu.edu
 #canonical_url: https://edwinexemplar.com
-keywords: "Software Engineer, Python, Ruby, Machine Learning, Deep Learning, Startups, Agile, Pair Programming"
-skills: "Senior Software Engineer in Seattle, WA (Fictitious)"
+keywords: "Penetration testing, red teaming, security research"
+skills: "Software development,Database hardening, Operating System hardening (Linux, Windows), Malware analysis, Fuzzing, Reverse engineering, Secure software development lifecycle"
 baseurl:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # You should replace these with your social networks, of course. :)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/cgroom/
-  - title: medium
-    url: https://medium.com/@cgroom
+    url: https://www.linkedin.com/in/jadwait/
   - title: twitter
-    url: https://twitter.com/chuck_groom
+    url: https://twitter.com/advaitj
     
 # Google webmaster tools
 google_verify:
